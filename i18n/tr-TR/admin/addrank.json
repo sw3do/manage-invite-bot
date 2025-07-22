@@ -1,9 +1,9 @@
 {
-    "MISSING_COUNT": "You must specify the number of invites required to obtain the rank. (Syntax: {{prefix}}addrank number @role)",
-    "INCORRECT_COUNT": " You must specify a __**valid**__ number of invites required to obtain the rank. (Syntax: {{prefix}}addrank number @role)",
+    "MISSING_COUNT": "Rütbeyi elde etmek için gereken davet sayısını belirtmelisiniz. (Sözdizimi: {{prefix}}addrank sayı @rol)",
+    "INCORRECT_COUNT": "Rütbeyi elde etmek için gereken __**geçerli**__ bir davet sayısı belirtmelisiniz. (Sözdizimi: {{prefix}}addrank sayı @rol)",
     "ALREADY_EXIST": "**{{count}}** davet için zaten tanımlanmış bir rol var (`{{roleName}}`)! `{{prefix}}removerank {{roleID}}` ile kaldırın, sonra tekrar deneyin!",
     "MISSING_ROLE": "Davet sayısına ulaşıldığında eklemek istediğiniz rolü belirtmelisiniz! (Örnek: {{prefix}}addrank sayı @rol)",
-    "ALREADY_USED": "This role is already used for **{{count}}** invites! Remove it by sending `{{prefix}}removerank {{roleID}}` and try again!",
+    "ALREADY_USED": "Bu rol zaten **{{count}}** davet için kullanılıyor! `{{prefix}}removerank {{roleID}}` göndererek kaldırın ve tekrar deneyin!",
     "MISSING_PERM": "Benim rolüm `{{roleName}}` rolünden alçak olduğu için bu rolü veremem! Lütfen benim rolümü üste koyun ve tekrar deneyin!",
     "TITLE": "🎯 Yeni rol eklendi",
     "CONTENT": "Üye **{{count}}** davete erişince, `{{roleName}}` rolünü alacak!",

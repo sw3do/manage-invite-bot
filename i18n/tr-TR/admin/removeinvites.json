@@ -1,6 +1,6 @@
 {
-    "CONFIRMATION": "Are you sure you want to remove all the server invites?",
-    "LOADING": "{{loading}} | Deleting invites of the current server.... You will be able to restore them with the command `{{prefix}}restore-invites`!",
-    "TITLE": "☄️ Invites reset!",
-    "DESCRIPTION": "{{success}} | Server invitations have been reset! You will be able to restore them with the command `{{prefix}}restore-invites`!"
+    "CONFIRMATION": "Tüm sunucu davetlerini kaldırmak istediğinizden emin misiniz?",
+    "LOADING": "{{loading}} | Mevcut sunucunun davetleri siliniyor.... Bunları `{{prefix}}restore-invites` komutuyla geri yükleyebileceksiniz!",
+    "TITLE": "☄️ Davetler sıfırlandı!",
+    "DESCRIPTION": "{{success}} | Sunucu davetleri sıfırlandı! Bunları `{{prefix}}restore-invites` komutuyla geri yükleyebileceksiniz!"
 }

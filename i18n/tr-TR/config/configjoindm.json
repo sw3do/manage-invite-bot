@@ -1,6 +1,6 @@
 {
     "DISABLE": "DM yoluyla giriş mesajını kapatmak için `{{prefix}}setdmjoin` yazın.",
-    "INSTRUCTIONS_1": "__**More informations**__\n```{{variables}}```\nSend `cancel` to cancel. {{string}}\n\n:sparkles: Embed messages are now available! You can generate an embed here: <https://embed-generator.manage-invite.xyz/> and send the json code below!\n\n\n:pencil: **| Now send the join message in DM... :pencil2:**",
+    "INSTRUCTIONS_1": "__**Daha fazla bilgi**__\n```{{variables}}```\nİptal etmek için `cancel` gönderin. {{string}}\n\n:sparkles: Embed mesajları artık mevcut! Burada bir embed oluşturabilirsiniz: <https://embed-generator.manage-invite.xyz/> ve aşağıya json kodunu gönderebilirsiniz!\n\n\n:pencil: **| Şimdi DM'de giriş mesajını gönderin... :pencil2:**",
     "SUCCESS": "✅ **| Başarıyla bitti...**",
     "TITLE": "**DM Yoluyla Giriş Mesajı Kurulumu Yapıldı**",
     "TEST": "Yeni mesajı görmek için `{{prefix}}testjoin` komutunu kullanın."

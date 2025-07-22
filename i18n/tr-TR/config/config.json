@@ -6,5 +6,5 @@
     "JOIN_DM_TITLE": "{{status}} Giriş DM Mesajları",
     "JOIN_DM_CONTENT": "> Etkin: {{enabled}}\n> Mesaj: {{message}}",
     "CHANNEL_NOT_FOUND": "**kanal bulunamadı**",
-    "STORAGE_TITLE": "Current Storage ID"
+    "STORAGE_TITLE": "Mevcut Depolama Kimliği"
 }

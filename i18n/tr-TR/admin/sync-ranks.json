@@ -1,8 +1,8 @@
 {
-    "CONFIRM": "Are you sure you want to synchronize the member ranks? It can take a long time depending on the size of your server.\n\n{{success}} Send `-confirm` to confirm.\n{{error}} Send `cancel` to abort.",
-    "STARTED": "Synchronization of member ranks started... Note: you can cancel it using `{{prefix}}sync-ranks cancel`.",
-    "CANCELLED": "Synchronization of member ranks cancelled.",
-    "SUCCESS": "Synchronization of member ranks is complete.",
-    "RUNNING": "Synchronization of member ranks is in progress {{percent}}. Note: you can cancel it using `{{prefix}}sync-ranks cancel`.",
-    "BEING_CANCELLED": "Synchronization of member ranks is being cancelled..."
+    "CONFIRM": "Üye rütbelerini senkronize etmek istediğinizden emin misiniz? Sunucunuzun boyutuna bağlı olarak uzun sürebilir.\n\n{{success}} Onaylamak için `-confirm` gönderin.\n{{error}} İptal etmek için `cancel` gönderin.",
+    "STARTED": "Üye rütbelerinin senkronizasyonu başladı... Not: `{{prefix}}sync-ranks cancel` kullanarak iptal edebilirsiniz.",
+    "CANCELLED": "Üye rütbelerinin senkronizasyonu iptal edildi.",
+    "SUCCESS": "Üye rütbelerinin senkronizasyonu tamamlandı.",
+    "RUNNING": "Üye rütbelerinin senkronizasyonu devam ediyor {{percent}}. Not: `{{prefix}}sync-ranks cancel` kullanarak iptal edebilirsiniz.",
+    "BEING_CANCELLED": "Üye rütbelerinin senkronizasyonu iptal ediliyor..."
 }

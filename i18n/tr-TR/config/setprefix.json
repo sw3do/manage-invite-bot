@@ -1,4 +1,4 @@
 {
-    "MISSING": "You must specify a prefix!",
+    "MISSING": "Bir önek belirtmelisiniz!",
     "SUCCESS": "Sunucu öneki/prefixi güncellendi!"
 }
