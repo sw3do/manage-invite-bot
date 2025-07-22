@@ -1,4 +1,4 @@
 {
-    "SUCCESS_ENABLED": "Now, members **will keep** their ranks, even if they don't have enough invites!",
-    "SUCCESS_DISABLED": "Now, members **won't keep** their ranks if they don't have enough invites!"
+    "SUCCESS_ENABLED": "{{success}} | Rütbe koruma etkinleştirildi! Bir üye sunucudan ayrılıp tekrar katıldığında, rollerini geri alacak.",
+    "SUCCESS_DISABLED": "{{success}} | Rütbe koruma devre dışı bırakıldı! Bir üye sunucudan ayrılıp tekrar katıldığında, rollerini geri almayacak."
 }

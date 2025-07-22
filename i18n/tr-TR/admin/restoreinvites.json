@@ -1,7 +1,7 @@
 {
-    "CONFIRMATION": "Are you sure you want to restore the server invites? All members will recover the invites they had before the last time the command `{{prefix}}remove-invites` was executed.\n\n:information_source: **Invites overview**:\nThis operation will restore, in total: **{{regular}}** regulars, **{{bonus}}** bonus, **{{leaves}}** leaves, **{{fake}}** fake.",
-    "LOADING": "{{loading}} | Restoring server invites...",
-    "TITLE": "☄️ Invites restored",
-    "DESCRIPTION": "{{success}} | Server invites restored!",
-    "NO_BACKUP": "There is no backup to restore!"
+    "CONFIRMATION": "Sunucu davetlerini geri yüklemek istediğinizden emin misiniz? Tüm üyeler `{{prefix}}remove-invites` komutunun son çalıştırılmasından önceki davetlerini geri alacaklar.\n\n:information_source: **Davet özeti**:\nBu işlem toplamda şunları geri yükleyecek: **{{regular}}** normal, **{{bonus}}** bonus, **{{leaves}}** ayrılan, **{{fake}}** sahte.",
+    "LOADING": "{{loading}} | Sunucu davetleri geri yükleniyor...",
+    "TITLE": "☄️ Davetler geri yüklendi",
+    "DESCRIPTION": "{{success}} | Sunucu davetleri geri yüklendi!",
+    "NO_BACKUP": "Geri yüklenecek yedek yok!"
 }
